@@ -1,1 +1,1 @@
-# first-project
+# dinosaur_game
